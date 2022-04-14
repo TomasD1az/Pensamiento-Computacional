@@ -1,0 +1,18 @@
+word0='Life'
+word1='ocean'
+word2='up'
+word3='down'
+
+word4=word0+' is like the '+word1+', it goes '+word2+' and '+word3
+print(word4)
+
+
+#%%
+
+word0='Mars'
+word1='Earth'
+word2='round'
+word3='round'
+
+word4=word0+' is like the '+word1+', it goes '+word2+' and '+word3
+print(word4)

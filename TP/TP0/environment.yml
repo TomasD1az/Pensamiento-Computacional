@@ -1,0 +1,19 @@
+name: pensamiento_computacional
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - scipy
+  - matplotlib
+  - numpy
+  - spyder
+  - pandas
+  - conda-forge::ta-lib
+  - pip:
+    - pywave
+    - seaborn  
+    - pythonturtle 
+    - yfinance
+    - tqdm
