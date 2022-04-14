@@ -1,2 +1,1 @@
-Esta es la carpeta para Pensamieto Computacional
-Voy a guardar los recursos tanto teoricos como practicos
+Esta es la carpeta para Pensamieto Computacional, voy a guardar los recursos tanto teoricos como practicos
